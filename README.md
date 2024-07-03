@@ -1,14 +1,19 @@
-This is an English Conversational Agent.
+# English Conversational Agent
 
 We reversed the normal Learning Scene by changing the conversation iniative to user.
 
 From the teacher/agent asks, learners answer, to learners ask, agent answers.
 
+We set the scene like the learner is a service provider at the information desk,
+the agent is the customer that need help.
+
+The goal for the learner is to a)initiate the conversation; b)undersatand the need of the customer; c)come up a plan to help the customer
+
 ![image](https://github.com/kokoL152/conversational-agent/assets/147573258/7cef0ffb-94c1-4222-b81e-16eb84fe5011)
 
 Fig.1 System interface
 
-Steps:
+## Steps:
 
 1. Users press the Activate button to iniatiate the conversation
 
@@ -20,7 +25,7 @@ Steps:
 
 4. System will distinguish the speech by analyzing the intent by Natural Language Processing
    
-5. NLP, content training, reply setting module were supported by Wit.ai
+5. NLP, content training, reply setting module were supported by [Wit.ai](https://wit.ai/)
 
 ![image](https://github.com/kokoL152/conversational-agent/assets/147573258/fefff8e6-945c-4349-a9ad-4714b28f8551)
 
