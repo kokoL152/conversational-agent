@@ -39,6 +39,9 @@ Fig.4 The test conversation on wit.ai blue side is the learner, grey side is the
 
 7. Oculus SDK will support the text to speech, and convert it into real-time voice feedback to the learner.
 
-
+References:
+1. Wit.ai: [https://wit.ai/](https://github.com/wit-ai/wit-unity)
+2. OculusSDK: https://developer.oculus.com/downloads/package/oculus-voice-sdk/
+3. Agent Avatar: hand made by vroid(https://vroid.com/)
 
    
